@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Projects
     align: center
+    has_background: true
   - type: features_section
     features:
       - title: Feature 1

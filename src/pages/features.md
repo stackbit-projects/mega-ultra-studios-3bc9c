@@ -19,7 +19,7 @@ sections:
         align: left
         image: images/Feature Films Cover V2.jpg
         image_alt: Feature Films cover image
-        image_position: right
+        image_position: left
         actions:
           - label: Learn More
             url: /about

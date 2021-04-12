@@ -27,7 +27,7 @@ sections:
       - title: Short Films
         content: |
           Short Films by Mega Ultra Studios
-        align: right
+        align: center
         image: images/Short Films Cover V2.jpg
         image_alt: Short Films cover image
         image_position: right

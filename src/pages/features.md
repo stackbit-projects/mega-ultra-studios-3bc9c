@@ -6,7 +6,7 @@ sections:
     align: center
     has_background: true
     background:
-      background_color: white
+      background_color: gray
       background_image_opacity: 45
       background_image_size: cover
       background_image_repeat: no-repeat

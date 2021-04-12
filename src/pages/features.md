@@ -10,6 +10,7 @@ sections:
       background_image_opacity: 0
       background_image_size: cover
       background_image_repeat: no-repeat
+      background_image: images/Background 6.jpg
   - type: features_section
     features:
       - title: Feature 1

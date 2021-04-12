@@ -29,7 +29,7 @@ sections:
           Short Films by Mega Ultra Studios
         align: left
         image: images/Short Films Cover V2.jpg
-        image_alt: Feature 2 placeholder image
+        image_alt: Short Films cover image
         image_position: left
         actions:
           - label: Learn More

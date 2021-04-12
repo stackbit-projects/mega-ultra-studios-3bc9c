@@ -28,7 +28,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/Mega-Ultra-Logo-Dark-Web-300x100.png"
     },
     "footer": {
         "has_nav": true,

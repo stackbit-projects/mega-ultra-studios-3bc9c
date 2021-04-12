@@ -30,7 +30,7 @@ sections:
         align: left
         image: images/Short Films Cover V2.jpg
         image_alt: Short Films cover image
-        image_position: left
+        image_position: right
         actions:
           - label: Learn More
             url: /style-guide

@@ -3,7 +3,7 @@ title: Projects
 sections:
   - type: hero_section
     title: Projects
-    align: left
+    align: right
   - type: features_section
     features:
       - title: Feature 1

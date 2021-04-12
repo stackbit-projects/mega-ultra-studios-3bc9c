@@ -29,7 +29,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/Mega-Ultra-Logo-Dark-Web-300x100.png"
+        "logo": "images/Mega-Ultra-Logo-Dark-Web-300x100.png",
+        "logo_alt": "Mega Ultra Studios logo"
     },
     "footer": {
         "has_nav": true,

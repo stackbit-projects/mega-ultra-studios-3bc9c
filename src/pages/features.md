@@ -17,7 +17,7 @@ sections:
         content: |
           Feature Films by Mega Ultra Studios
         align: left
-        image: images/feature.svg
+        image: images/Feature Films Cover V2.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:

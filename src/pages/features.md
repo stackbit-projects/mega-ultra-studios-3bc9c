@@ -16,7 +16,7 @@ sections:
       - title: Feature Films
         content: |
           Feature Films by Mega Ultra Studios
-        align: left
+        align: center
         image: images/Feature Films Cover V2.jpg
         image_alt: Feature Films cover image
         image_position: left
